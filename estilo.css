@@ -1,0 +1,198 @@
+.topo{
+  background-color: #363636;
+  width: 500px;
+  height: 80px;
+  border: 1px solid black;
+  display: flex;
+}
+.marvel{
+  width: 20%;
+  position: relative;
+  top: 20px;
+  left: 10px;
+}
+.btn-group{ 
+  height: 60px;
+  width: 10%;
+  position: relative;
+  left: 300px;
+  top: 10px;
+}
+.titulo{
+  width: 500px;
+  height: 100px;
+  color: white;
+  background-color: red;
+  font-size: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.p{
+  width: 500px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+}
+.img{
+  width: 500px;
+  display: flex;
+  justify-content: center; 
+}
+.h4{
+  position: absolute;
+  left: 50px;
+}
+.t{ 
+  width: 400px;
+  height: 270px;
+  display: flex;
+  justify-content: center;
+}
+.p2{ 
+  width: 500px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+}
+.t2{ 
+  width: 400px;
+  height: 50px;
+  position: relative;
+  top: 70px;
+}
+.miranha{
+  display: flex;
+  position: absolute;
+  top: 82.5em;
+}
+.pmiranha{
+  width: 500px;
+  height: 350px;
+  position: absolute;
+  top: 97.5em;
+  
+}
+.tmiranha{
+  width: 400px;
+  height: 350px;
+  display: flex;
+  position: relative;
+  left: 50px;
+}
+.t2miranha{
+  width: 400px;
+  height: 65px;
+  display: flex;
+  position: relative;
+  left: 50px;
+  bottom: 1em;
+}
+.drE{
+  position: relative;
+  top: 30em;
+}
+.drEstranho{
+  position: relative;
+  top: 42.5em;
+}
+.pDr{
+  width: 500px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 42.5em;
+}
+.tDr{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+}
+.h4thor{
+  position: relative;
+  top: 31.5em;
+}
+.thor{
+  position: relative;
+  top: 43em;
+}
+.pthor{
+   width: 500px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 43em;
+}
+.tthor{
+  width: 400px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+}
+.arq{
+  position: relative;
+  top: 1em;
+}
+.pArq{
+  width: 500px;
+  height: 250px;
+  position: relative;
+  top: 1em;
+  display: flex;
+  justify-content: center;
+}
+.tArq{
+  width: 400px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+}
+.cavaleiro{
+  position: relative;
+  top: 1em;
+}
+.pCav{
+   width: 500px;
+  height: 350px;
+  position: relative;
+  top: 1em;
+  display: flex;
+  justify-content: center;
+}
+.tCav{
+  width: 400px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+}
+.hulk{
+  position: relative;
+  top: 1em;
+}
+.pHulk{
+   width: 500px;
+  height: 400px;
+  position: relative;
+  top: 1em;
+  display: flex;
+  justify-content: center;
+}
+.tHulk{
+   width: 400px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+}
+.final{
+  position: relative;
+  top: 42.5em;
+  left: 50px;
+}
+.final2{
+  position: relative;
+  top: 0em;
+  left: 50px;
+}
